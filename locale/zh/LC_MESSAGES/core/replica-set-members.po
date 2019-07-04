@@ -89,9 +89,10 @@ msgstr ""
 # c335fabf7bb140ae995aa079ab551d4d
 #: ../source/core/replica-set-members.txt:44
 msgid ""
-"A replica set can have up to :ref:`50 members <3.0-replica-sets-max-"
-"members>` but only 7 voting members. [#master-slave]_ In previous "
-"versions, replica sets can have up to 12 members."
+"一个副本集最多可以有 :ref:`50个成员 <3.0-replica-sets-max-"
+"members>` 但只有7个投票成员。 [#master-slave]_ 在以前的版本中
+, 副本集最多可以有12个成员。"
+。，
 msgstr ""
 
 # c8513afdc3a141ee9ad6ed7aa2e82832
